@@ -1,0 +1,27 @@
+{
+  "name": "hexo-filter-pangu",
+  "version": "1.0.0",
+  "description": "Server side pangu.js filter for Hexo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theme-next/hexo-filter-pangu.git"
+  },
+  "keywords": [
+    "Hexo",
+    "NexT"
+  ],
+  "author": "NexT <support@theme-next.org> (https://theme-next.org)",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/theme-next/hexo-filter-pangu/issues"
+  },
+  "homepage": "https://github.com/theme-next/hexo-filter-pangu#readme",
+  "dependencies": {
+    "jsdom": "^16.2.1",
+    "pangu": "^4.0.7"
+  }
+}
