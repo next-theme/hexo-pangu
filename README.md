@@ -1,11 +1,29 @@
 # Hexo Pangu
 
-![Package Version](https://img.shields.io/github/package-json/v/hexo-next/hexo-pangu?style=flat-square)
+[![npm-image]][npm-url]
+[![lic-image]](LICENSE)
 
 Server side [pangu.js](https://github.com/vinta/pangu.js) filter for Hexo.
 
-## Install
+## Installation
+
+![size-image]
+[![dm-image]][npm-url]
+[![dt-image]][npm-url]
 
 ```bash
 npm install hexo-pangu
 ```
+
+## License
+
+Released under the MIT License
+
+[npm-image]: https://img.shields.io/npm/v/hexo-pangu?style=flat-square
+[lic-image]: https://img.shields.io/npm/l/hexo-pangu?style=flat-square
+
+[size-image]: https://img.shields.io/github/languages/code-size/hexo-next/hexo-pangu?style=flat-square
+[dm-image]: https://img.shields.io/npm/dm/hexo-pangu?style=flat-square
+[dt-image]: https://img.shields.io/npm/dt/hexo-pangu?style=flat-square
+
+[npm-url]: https://www.npmjs.com/package/hexo-pangu
