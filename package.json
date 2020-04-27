@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hexo-next/hexo-pangu.git"
+    "url": "git+https://github.com/next-theme/hexo-pangu.git"
   },
   "keywords": [
     "Hexo",
     "NexT"
   ],
   "author": "Mimi <stevenjoezhang@gmail.com> (https://zhangshuqiao.org)",
-  "readme": "https://github.com/hexo-next/hexo-pangu/blob/master/README.md",
+  "readme": "https://github.com/next-theme/hexo-pangu/blob/master/README.md",
   "license": "LGPL-3.0",
   "bugs": {
-    "url": "https://github.com/hexo-next/hexo-pangu/issues"
+    "url": "https://github.com/next-theme/hexo-pangu/issues"
   },
-  "homepage": "https://github.com/hexo-next/hexo-pangu#readme",
+  "homepage": "https://github.com/next-theme/hexo-pangu#readme",
   "dependencies": {
     "jsdom": "^16.2.1",
     "pangu": "^4.0.7"
