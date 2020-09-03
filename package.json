@@ -15,14 +15,14 @@
     "NexT"
   ],
   "author": "Mimi <stevenjoezhang@gmail.com> (https://zhangshuqiao.org)",
-  "readme": "https://github.com/next-theme/hexo-pangu/blob/master/README.md",
-  "license": "LGPL-3.0",
+  "readme": "https://github.com/next-theme/hexo-pangu#readme",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/next-theme/hexo-pangu/issues"
   },
   "homepage": "https://github.com/next-theme/hexo-pangu#readme",
   "dependencies": {
-    "jsdom": "^16.2.1",
+    "jsdom": "^16.4.0",
     "pangu": "^4.0.7"
   }
 }
