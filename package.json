@@ -1,6 +1,6 @@
 {
   "name": "hexo-pangu",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Server side pangu.js filter for Hexo.",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/next-theme/hexo-pangu#readme",
   "dependencies": {
-    "jsdom": "^16.4.0",
+    "jsdom": "^17.0.0",
     "pangu": "^4.0.7"
   }
 }
