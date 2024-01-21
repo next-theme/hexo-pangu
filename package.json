@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/next-theme/hexo-pangu#readme",
   "dependencies": {
-    "jsdom": "^20.0.0",
+    "jsdom": "^24.0.0",
     "pangu": "^4.0.7"
   }
 }
