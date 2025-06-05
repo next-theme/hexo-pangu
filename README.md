@@ -12,8 +12,8 @@ Server side [pangu.js](https://github.com/vinta/pangu.js) filter for Hexo.
 [![dt-image]][npm-url]
 
 ```bash
-$ npm install hexo-pangu
-$ hexo clean
+npm install hexo-pangu
+hexo clean
 ```
 
 ## License
