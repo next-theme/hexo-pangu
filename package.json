@@ -20,6 +20,6 @@
   "homepage": "https://github.com/next-theme/hexo-pangu#readme",
   "dependencies": {
     "jsdom": "^26.1.0",
-    "pangu": "^7.2.0"
+    "pangu": "7.2.0"
   }
 }
