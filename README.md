@@ -1,5 +1,7 @@
 # Hexo Pangu
 
+> This plugin is deprecated. Please use [`text-autospace: normal`](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference/Properties/text-autospace) instead. See also [CSS property: text-autospace | Can I use](https://caniuse.com/mdn-css_properties_text-autospace).
+
 [![npm-image]][npm-url]
 [![lic-image]](LICENSE)
 
