@@ -16,12 +16,12 @@ jobs:
     - name: Use Node.js
       uses: actions/setup-node@v6
       with:
+        node-version: '24'
         registry-url: 'https://registry.npmjs.org'
+        package-manager-cache: false
     - run: |
         npm install
-        npm publish --provenance
-      env:
-        NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+        npm publish
     - name: Create GitHub release
       run: gh release create "$GITHUB_REF_NAME" --verify-tag --generate-notes --title "$GITHUB_REF_NAME"
       env:
