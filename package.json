@@ -4,7 +4,7 @@
   "description": "Server side pangu.js filter for Hexo.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node --test"
   },
   "repository": {
     "type": "git",
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/next-theme/hexo-pangu#readme",
   "dependencies": {
-    "jsdom": "^29.0.0",
+    "happy-dom": "^20.11.1",
     "pangu": "9.0.0"
   }
 }
