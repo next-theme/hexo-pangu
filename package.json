@@ -23,6 +23,6 @@
   "homepage": "https://github.com/next-theme/hexo-pangu#readme",
   "dependencies": {
     "happy-dom": "^20.11.1",
-    "pangu": "9.0.0"
+    "pangu": "9.1.0"
   }
 }
